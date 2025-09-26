@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratet-sk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2&custom_title=all%20of%20da%20languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratet-sk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
